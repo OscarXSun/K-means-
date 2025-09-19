@@ -4,7 +4,7 @@
 1. *¿Crees que estos centros puedan ser representativos de los datos? ¿Por qué?*
 
 Sí, los centros pueden ser representativos de los datos porque el algoritmo k-means busca minimizar la distancia entre los puntos y los centros. Esto significa que los centros están ubicados en lugares que son representativos de los grupos de datos.
-
+ 
 2. *¿Cómo obtuviste el valor de k a usar?*
 
 Obtuve el valor de k utilizando la puntuación de Silhouette, que mide la similitud entre los puntos y los centros. El valor de k que maximiza la puntuación de Silhouette es el que mejor representa la estructura de los datos.
